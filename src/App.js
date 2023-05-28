@@ -45,7 +45,7 @@ function App() {
           </p>
           <p>
             <b> 
-            <a href="https://t.co/YAvm5pfzNd" target="_blank" rel="noopener noreferrer"> christian intellectual project </a>
+            <a href="https://t.co/YAvm5pfzNd" target="_blank" rel="noopener noreferrer"> beatitude </a>
             </b>
           </p>
           <p> 
