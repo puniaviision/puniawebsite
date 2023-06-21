@@ -37,7 +37,7 @@ function App() {
         <div className='projects'>
           <p>
             <b> 
-            <a href="https://www.tokenautomation.xyz/" target="_blank" rel="noopener noreferrer"> token automation studios </a>
+            <a href="https://www.tokenautomation.xyz/" target="_blank" rel="noopener noreferrer"> token automation systems </a>
             </b>
           </p>
           <p> 
@@ -45,7 +45,7 @@ function App() {
           </p>
           <p>
             <b> 
-            <a href="https://t.co/YAvm5pfzNd" target="_blank" rel="noopener noreferrer"> beatitude </a>
+            <a href="https://www.caritas.academy/landing" target="_blank" rel="noopener noreferrer"> caritas academy </a>
             </b>
           </p>
           <p> 
